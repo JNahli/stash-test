@@ -1,0 +1,4 @@
+*.log
+*heden.txt
+!jaber.log
+node_packs/
